@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Main/Home.md",
+                "file": "2026/Trimester 1/1725GFS Screen Grammar/Lectures/1725GFS - Lecture 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "1725GFS - Lecture 8"
             }
           }
         ]
@@ -41,9 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026/Trimester 2/1730GFS Writing and Development/Tutorials/Tutorial 1.md",
+                "file": "Concepts/Auteur Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tutorial 1"
+              "title": "Backlinks for Auteur Theory"
             }
           },
           {
@@ -176,7 +174,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -192,49 +189,49 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "00 Main/Home.md",
-    "Main Story/Story Overview.md",
-    "Pokemon/Box Legendaries/Lumascael.md",
-    "Pokemon/Box Legendaries/bowerbird.md",
-    "People/Professor Melaleuca.md",
-    "People/Player.md",
-    "Places/Research Lab.md",
-    "Places",
-    "Pokemon/Box Legendaries",
-    "00 Main",
-    "Welcome.md",
-    "Side Stories",
-    "Main Story",
-    "Pokemon",
-    "People",
-    "2026/Trimester 2/1730GFS Writing and Development/Tutorials/Tutorial 6.md",
-    "2026/Trimester 2/1730GFS Writing and Development/Assessment 1.md",
-    "2026/Trimester 2/1728GFS Form and Style/Lectures/1728GFS Lecture 6.md",
     "00 Main/Dashboard.md",
-    "2026/Trimester 2/1728GFS Form and Style/Assessment 1.md",
-    "2026/Trimester 2/1305GFS Post Production/Assessments/Assessment 1.md",
-    "2026/Trimester 2/1730GFS Writing and Development/Tutorials/Tutorial 3.md",
-    "2026/Trimester 2/1730GFS Writing and Development/Untitled/desktop.ini",
-    "2026/Trimester 2/1730GFS Writing and Development/Assessments",
-    "2026/Trimester 2/1729GFS Streaming Television/Assessments/tv show critique.md",
-    "2026/Trimester 2/1305GFS Post Production/Assessments",
-    "2026/Trimester 2/1730GFS Writing and Development/Tutorials/Tutorial 2.md",
-    "2026/Trimester 2/1730GFS Writing and Development/Tutorials/Tutorial 1.md",
-    "2026/Trimester 2/1728GFS Form and Style/Lectures/1728GFS Lecture 2.md",
-    "2026/Trimester 2/1728GFS Form and Style/Lectures/1728GFS Lecture 1.md",
-    "Concepts/Dogme 95.md",
-    "Concepts/Genre.md",
-    "2026/Trimester 1/1725GFS Screen Grammar/Lectures/1725GFS - Lecture 4.md",
-    "2026/Trimester 2/1730GFS Writing and Development/Lectures/1730GFS - Lecture 1.md",
-    "Concepts/German Expressionism.md",
+    "2026/Trimester 1/1725GFS Screen Grammar/Lectures/1725GFS - Lecture 8.md",
+    "2026/Trimester 1/1727GFS Directing Fundamentals/Directing Fundamentals Home.md",
+    "2026/Trimester 1/1727GFS Directing Fundamentals/Lectures/1727GFS - Lecture 5.md",
+    "2026/Trimester 1/1727GFS Directing Fundamentals/Lectures/1727GFS - Lecture 6.md",
+    "2026/Trimester 1/1727GFS Directing Fundamentals/Tutorials/1727GFS - Tutorial 3.md",
+    "2026/Trimester 1/1727GFS Directing Fundamentals/Tutorials/1727GFS - Tutorial 6.md",
+    "2026/Trimester 1/1726GFS Foundations of Film Production/Lectures/1726GFS - Lecture 7.md",
+    "2026/Trimester 1/1725GFS Screen Grammar/Lectures/1725GFS - Lecture 7.md",
     "Concepts/Composition & Framing.md",
+    "Concepts/Visual Composition/Rhythm (visual composition).md",
+    "2026/Trimester 1/1726GFS Foundations of Film Production/Lectures/1726GFS - Lecture 2.md",
+    "2026/Trimester 1/1726GFS Foundations of Film Production/Lectures/1726GFS - Lecture 3.md",
+    "2026/Trimester 1/1726GFS Foundations of Film Production/Assessments/image craft portfolio.md",
+    "2026/Trimester 1/1726GFS Foundations of Film Production/Lectures/1726GFS - Lecture 4.md",
+    "Concepts/Coverage.md",
+    "Concepts/Visual Composition/Proportion (visual composition).md",
+    "Concepts/Visual Composition/Directionality (visual composition).md",
+    "Concepts/Visual Composition/Contrast (visual composition).md",
+    "Concepts/Visual Composition/Balance (visual composition).md",
+    "2026/Trimester 1/1725GFS Screen Grammar/Assessments/1725GFS - A2b - Research Essay.md",
+    "2026/Trimester 1/1301GFS Foundations of Art Direction/Assessments/character design.md",
+    "2026/Trimester 1/1301GFS Foundations of Art Direction/Foundations of Art Direction Home.md",
+    "2026/Trimester 1/1725GFS Screen Grammar/Assessments/Oral Presentation for Prospectus.md",
+    "2026/Trimester 1/1725GFS Screen Grammar/Assessments/1725GFS - A2a - Prospectus for Research Essay.md",
+    "2026/Trimester 1/1726GFS Foundations of Film Production/Tutorials/1726GFS - Tutorial 5.md",
     "Media/Images/Pasted image 20260313185515.png",
     "Media/Images/2026-tri1-stdtimetable.png",
     "Media/Images/compositional-approaches.png",
+    "Concepts/Visual Composition",
+    "Concepts/People",
+    "Concepts/Films",
+    "00 Main",
     "Untitled.canvas",
     "Media/Images/moodboardprisoncell.jpg",
     "Media/Images/bladerunner-metropolis.png",
     "Media/Images/cesare-scissorhands.png",
+    "Media/Images",
+    "Media",
+    "2026/Trimester 1/1301GFS Foundations of Art Direction/Tutorials",
+    "2026/Trimester 1/1301GFS Foundations of Art Direction/Lectures",
+    "2026/Trimester 1/1301GFS Foundations of Art Direction/Assessments",
+    "2026/Trimester 1/1301GFS Foundations of Art Direction",
     "Screenshot 2026-03-09 001300.png",
     "Untitled 1.canvas"
   ]
