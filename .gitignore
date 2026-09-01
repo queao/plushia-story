@@ -1,0 +1,13 @@
+# Personal Obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Let each user configure Obsidian Git independently
+.obsidian/plugins/obsidian-git/data.json
+
+# Obsidian trash
+.trash/
+
+# OS junk
+.DS_Store
+Thumbs.db
