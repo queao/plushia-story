@@ -2,8 +2,6 @@
 - [[Introduction]]
 - [[Luma Attack 1]]
 - [[Recruitment to Lab]]
-
-
 # Act 1
 * [[Gym 1]]
 * BA$H Encounter 1
@@ -25,7 +23,10 @@
 - Bowerbird Encounter
 # Act 3
 * Gym 7
+* Luma Attack 4
 * Gym 8
+* BA$H Encounter 4
 * Rival Fight 5
 * Elite 4/Champion
 * Bowerbird/Luma Confrontation
+* Reconciliation
