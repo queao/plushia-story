@@ -1,1 +1,4 @@
-To be retooled, however I would like to keep the name if possible. -Emerald
+To Be Retooled
+
+Honestly I don't see a lot of issues with the current fire leader design, but there needs a lot more actual character work put into them for it to really work. They absolutely need some touching up, however the core design especially with the outfit already looks amazing and very much with that gym leader flare that you want to see. Val I know you said you wanted to lean away from "celebrity gym leaders" as a point, but I feel like having Wick as possibly our one (or maybe one of two) that fall into that could work if we characterize them similar to how Dolly Parton for example used her fame to help her community to flourish through things like the Imagination Library. Could absolutely take this and run with it, have them lean into the idea of fire being a light for people rather than a raging inferno, something to be contained. A literal candle in the dark for people, using their fame and subsequent wealth to help their community.
+-Emerald
