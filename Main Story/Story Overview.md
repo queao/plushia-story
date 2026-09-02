@@ -1,6 +1,6 @@
 # Prologue
 - [[Player]] arrives in the region
-- On their way to meet [[Professor Melaleuca]], witness an attack on a small town (maybe just like a bridge or some shit instead?) by [[Lumascael]]
+- On their way to meet [[Professor Melaleuca]], witness [[Luma Attack 1]]
 - Luma sees the player and flees
 - Player continues on path to the [[Research Lab]] in the capital
 - Upon reaching the lab, Mela is watching a report of the attack
@@ -18,7 +18,7 @@
 * [[Rival Fight 1]]
 * [[Gym 2]]
 * [[Luma Attack 2]]
-* Rival Fight 2
+* [[Rival Fight 2]]
 * [[Gym 3]]
 * [[Bowerbird Discovery]]
 # Act 2
