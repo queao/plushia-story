@@ -1,1 +1,4 @@
 To Be Redone
+
+I like the concept of a "lazy gym leader" a lot, I just kinda hate the design. Could lean into the concept of the opportunist side of the personality given, and draw inspiration from the archetype of spirits making deals, and have them as possibly an arbiter for their area? At first definitely comes off as sleezy, but on closer inspection shows themself to be very much a "hold people accountable and keep the peace" sort of person that goes about it by making deals. Still able to keep the subtheme of them using a lot of trade evolutions to help convey that. Redesign could possibly take some inspo from Lucifer from his namesake TV show and Dr. Facilier? that sorta vibe. Spitballing here
+-Emerald
