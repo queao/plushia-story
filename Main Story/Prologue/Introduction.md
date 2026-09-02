@@ -1,0 +1,2 @@
+- [[Player]] arrives in the region
+- On their way to meet [[Professor Melaleuca]], witness [[Luma Attack 1]]

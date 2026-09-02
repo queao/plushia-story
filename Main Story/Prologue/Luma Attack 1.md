@@ -1,1 +1,2 @@
-an attack on a small town (maybe just like a bridge or some shit instead?) by [[Lumascael]]
+- an attack on a small town (maybe just like a bridge or some shit instead?) by [[Lumascael]]
+- Luma sees the player and flees
