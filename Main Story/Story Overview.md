@@ -14,5 +14,16 @@
 
 
 # Act 1
+* [[Gym 1]]
+* [[Rival Fight 1]]
+* [[Gym 2]]
+* [[Luma Attack 2]]
+* Rival Fight 2
+* [[Gym 3]]
+* [[Bowerbird Discovery]]
 # Act 2
+
 # Act 3
+* Gym 7
+* Gym 8
+* Rival Fight 5

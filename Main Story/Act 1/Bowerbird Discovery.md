@@ -1,0 +1,1 @@
+Survey of location by other researchers (Rival perhaps?) leads to discovery of evidence that theres another legendary parallel to Lumascael, the [[Bowerbird]]
