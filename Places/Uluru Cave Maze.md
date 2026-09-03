@@ -1,0 +1,1 @@
+Could possibly be the location that we first find [[Bowerbird]], with the lore ending up that they formed the Uluru around itself? 
