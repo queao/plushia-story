@@ -1,2 +1,5 @@
-- [[Player]] arrives in the region
-- On their way to meet [[Professor Melaleuca]], witness [[Luma Attack 1]]
+- [[Player]] arrives in the region, exiting a ship at 
+- Player is given a questionnaire to fill out, and handed a Trainer ID according to the responses
+	- Reference: pickable background on [[Player]]
+- Player and [[Rival]] meet up at [[Shipyard]] and leave for the [[Research Lab]]
+- On their way, the two witness [[Luma Attack 1]]
