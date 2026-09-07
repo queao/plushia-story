@@ -1,0 +1,1 @@
+- Occurs when Player gains second Gym badge
