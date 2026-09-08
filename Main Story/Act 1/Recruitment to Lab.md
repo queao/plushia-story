@@ -1,6 +1,6 @@
 * [[Professor Melaleuca]] and a team of first responders arrive to (TBD) due to reports of an attack from an unknown pokemon
 * Researchers ask around for accounts of what happened
-- Player and Rival speak up saying they were there and witnessed the attack firsthand
+- [[Player]] and [[Rival]] speak up saying they were there and witnessed the attack firsthand
 - Mela asks who the two are, player introduces self and states they are there for the research internship
 - The player describes Lumascael to the on-site team
 - Mela says the description doesn't match any known Pokemon in the region

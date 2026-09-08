@@ -1,5 +1,5 @@
 - Occurs when Player gains second Gym badge
 - Occurs at (undecided location)
 - First proper good look at Lumascael
-- Rival and Player meet up soon after to help with aftermath
+- [[Rival]] and [[Player]] meet up soon after to help with aftermath
 - [[Rival Fight 1]]

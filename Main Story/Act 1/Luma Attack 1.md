@@ -1,4 +1,4 @@
-- As Player and Rival head out, Player spots [[Lumascael]] headed towards (TBD)
+- As [[Player]] and [[Rival]] head out, Player spots [[Lumascael]] headed towards (TBD)
 - The two chase after, arriving at (TBD) to find it in chaos
 - Lumascael and Player have a staredown before Lumascael flees from the scene
 - Player and Rival both stay behind to try and help

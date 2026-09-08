@@ -1,5 +1,5 @@
-- [[Player]] arrives in the region, exiting a ship at 
+- [[Player]] arrives in the region, exiting a ship at [[Shipyard]]
 - Player is given a questionnaire to fill out, and handed a Trainer ID according to the responses
 	- Reference: pickable background on [[Player]]
-- Player and [[Rival]] meet up at [[Shipyard]] and leave for the [[Research Lab]]
+- Player and [[Rival]] meet up at (City) and leave for the [[Research Lab]]
 - On their way, the two witness [[Luma Attack 1]]
